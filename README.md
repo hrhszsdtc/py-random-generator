@@ -4,7 +4,7 @@ A Random Generator for Multiple Scenarios
 
 ## Installation
 
-`python -m pip install randgen_hrhszsdtc`
+`python -m pip install randgen`
 
 ## Usage
 
