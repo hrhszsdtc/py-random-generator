@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+[project]
+name = "randgen_hrhszsdtc"
+version = "1.0.0"
+authors = [
+  { name="hrhszsdtc", email="hrhszsdtc@outlook.com" },
+]
+description = "A Random Generator for Multiple Scenarios"
+readme = "README.md"
+requires-python = ">=3.9"
+license = {file = "LICENSE"}
+keywords = ["random","generator"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/hrhszsdtc/py-random-generator"
+"Bug Tracker" = "https://github.com/hrhszsdtc/py-random-generator/issues"
