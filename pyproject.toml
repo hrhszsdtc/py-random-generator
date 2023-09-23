@@ -2,7 +2,7 @@
 requires = ["setuptools>=61.0"]
 build-backend = "setuptools.build_meta"
 [project]
-name = "randgen_hrhszsdtc"
+name = "randgen"
 version = "1.0.0"
 authors = [
   { name="hrhszsdtc", email="hrhszsdtc@outlook.com" },
